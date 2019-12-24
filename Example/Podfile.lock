@@ -1,0 +1,16 @@
+PODS:
+  - JNRegularExpression (0.1.0)
+
+DEPENDENCIES:
+  - JNRegularExpression (from `../`)
+
+EXTERNAL SOURCES:
+  JNRegularExpression:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  JNRegularExpression: df9b464071207a70a9e0acbac6299f41b9b27699
+
+PODFILE CHECKSUM: fac1908917c15f8edee74b25c115e6fa63feacd7
+
+COCOAPODS: 1.8.4

@@ -1,0 +1,6 @@
+framework module Pods_JNRegularExpression_Tests {
+  umbrella header "Pods-JNRegularExpression_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

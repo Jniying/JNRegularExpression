@@ -1,0 +1,6 @@
+framework module JNRegularExpression {
+  umbrella header "JNRegularExpression-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'JNRegularExpression_Example' do
+  pod 'JNRegularExpression', :path => '../'
+
+  target 'JNRegularExpression_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
